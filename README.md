@@ -3,14 +3,11 @@
 I'm a Systems Engineering student at UTN FRRe. I'm enthusiastic about technology and web development, and I'm currently enhancing my skills in some programming languages and tools
 
 
-//<img align="right" height="400"  style="z-index=20" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW41bnl0aGJuMDR5dzkzbHJ2enkyMGcxYjRwbThobnRzZmlvcHdoeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif"  />
-
-//## Languages and Tools 
-
-<div style="position: relative; text-align: left;" align="right" height="400">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW41bnl0aGJuMDR5dzkzbHJ2enkyMGcxYjRwbThobnRzZmlvcHdoeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" alt="Imagen" style="position: absolute; top: -50px; left: 50%; transform: translateX(-50%);">
-  <h2 style="margin-top: 60px;">Languages and Tools</h2>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <h2 style="margin: 0;">Título alineado a la izquierda</h2>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW41bnl0aGJuMDR5dzkzbHJ2enkyMGcxYjRwbThobnRzZmlvcHdoeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" alt="Imagen" style="width: 50px; height: auto;">
 </div>
+
 
 
 <div align="left">
