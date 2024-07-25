@@ -1,18 +1,10 @@
-<h1 align="left">Hi! I'm Juliana</h1>
+# Hi! I'm Juliana
 
-###
-
-I'm a Systems Engineering student at UTN FRRe. I'm enthusiastic about technology and web development, and I'm currently enhancing my skills in some programming languages and tools
-
-###
+### I'm a Systems Engineering student at UTN FRRe. I'm enthusiastic about technology and web development, and I'm currently enhancing my skills in some programming languages and tools
 
 <img align="right" height="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW41bnl0aGJuMDR5dzkzbHJ2enkyMGcxYjRwbThobnRzZmlvcHdoeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif"  />
 
-###
-
-<h2 align="left">Languages and Tools</h2>
-
-###
+## Languages and Tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -48,11 +40,7 @@ I'm a Systems Engineering student at UTN FRRe. I'm enthusiastic about technology
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="40" alt="filezilla logo"  />
 </div>
 
-###
-
-<h2 align="left">How to reach me!</h2>
-
-###
+## How to reach me!
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -61,7 +49,7 @@ I'm a Systems Engineering student at UTN FRRe. I'm enthusiastic about technology
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
 </div>
 
-###
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=juli-sz&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1&custom_title=Stats" height="150" alt="stats graph"  />
@@ -70,6 +58,6 @@ I'm a Systems Engineering student at UTN FRRe. I'm enthusiastic about technology
 
 ###
 
-<img src="https://raw.githubusercontent.com/juli-sz/juli-sz/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/juli-sz/juli-sz/snake.svg" alt="Snake animation" />
 
 ###
