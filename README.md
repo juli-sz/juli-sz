@@ -2,9 +2,7 @@
 
 ###
 
-<br clear="both">
-
-<h3 align="left">I'm a Systems Engineering student at UTN FRRe. I'm enthusiastic about technology and web development, and I'm currently enhancing my skills in some programming languages and tools</h3>
+I'm a Systems Engineering student at UTN FRRe. I'm enthusiastic about technology and web development, and I'm currently enhancing my skills in some programming languages and tools
 
 ###
 
