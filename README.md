@@ -9,7 +9,6 @@ I'm a Systems Engineering student at UTN FRRe. I'm enthusiastic about technology
 </div>
 
 
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -58,4 +57,3 @@ I'm a Systems Engineering student at UTN FRRe. I'm enthusiastic about technology
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juli-sz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
-<img src="https://raw.githubusercontent.com/juli-sz/juli-sz/snake.svg" alt="Snake animation" />
