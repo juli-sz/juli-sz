@@ -2,10 +2,9 @@
 
 I'm a Systems Engineering student at UTN FRRe. I'm enthusiastic about technology and web development, and I'm currently enhancing my skills in some programming languages and tools
 
-<img align="right" height="400"  src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW41bnl0aGJuMDR5dzkzbHJ2enkyMGcxYjRwbThobnRzZmlvcHdoeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif"  />
+<img align="right" height="400"  style="z-index=20" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW41bnl0aGJuMDR5dzkzbHJ2enkyMGcxYjRwbThobnRzZmlvcHdoeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif"  />
 
-
-<p style="font-size:20;">Languages and Tools</p>
+## Languages and Tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
