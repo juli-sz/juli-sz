@@ -2,9 +2,11 @@
 
 ### I'm a Systems Engineering student at UTN FRRe. I'm enthusiastic about technology and web development, and I'm currently enhancing my skills in some programming languages and tools
 
-<img align="right" height="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW41bnl0aGJuMDR5dzkzbHJ2enkyMGcxYjRwbThobnRzZmlvcHdoeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif"  />
+<img align="right" height="400"  src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW41bnl0aGJuMDR5dzkzbHJ2enkyMGcxYjRwbThobnRzZmlvcHdoeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif"  />
 
 ## Languages and Tools
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -36,6 +38,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="40" alt="filezilla logo"  />
+</div>
 
 ## How to reach me!
 
@@ -53,8 +56,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juli-sz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
-
 <img src="https://raw.githubusercontent.com/juli-sz/juli-sz/snake.svg" alt="Snake animation" />
-
-###
