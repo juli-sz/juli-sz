@@ -61,9 +61,9 @@
 
 ###
 
-<img align="left" height="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTd2aXd3anljeDBic2F4N2U5Ym1kNWIzbDd0ZTBveDFpNHdkYWhteCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j7k6JOp8LufhXspVfu/giphy.gif"  />
+<img align="left" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTd2aXd3anljeDBic2F4N2U5Ym1kNWIzbDd0ZTBveDFpNHdkYWhteCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j7k6JOp8LufhXspVfu/giphy.gif"  />
 <div align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=juli-sz&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1&custom_title=Stats" height="350" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=juli-sz&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1&custom_title=Stats" height="200" alt="stats graph"  />
 </div>
 
 ###
