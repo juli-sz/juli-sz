@@ -6,26 +6,7 @@
 
 <h3 align="left">I'm a Systems Engineering student at UTN FRRe. I'm enthusiastic about technology and web development, and I'm currently enhancing my skills in some programming languages and tools</h3>
 
-<table>
-    <tbody>            
-            <tr>
-              <td>
-                <div>
-                  <h2 align="left">How to reach me!</h2>
-                  <div align="left">
-                    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"                     width="5%" height="5%" alt="linkedin logo"  />
-                    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg"                     width="5%" height="5%" alt="telegram logo"  />
-                    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg"                     width="5%" height="5%" alt="discord logo"  />
-                    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"                       width="5%" height="5%" alt="gmail logo"  />
-                    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg"                  width="5%" height="5%" alt="hackerrank logo"  />
-                  </div>
-              </div> 
-              </td>
-                <td rowspan=8 align="center"><img align="left" height="80%" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWl3ejhodWM5dW45aXk0cG84NXllYjdyMm8zdW4wYWdrczJieWFxNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif">
-              </td>
-            </tr> 
-      </tbody>
-</table>
+src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWl3ejhodWM5dW45aXk0cG84NXllYjdyMm8zdW4wYWdrczJieWFxNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif">
 
 ###
 
