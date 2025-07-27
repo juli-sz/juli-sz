@@ -3,10 +3,10 @@
 ###
 
 <div clear="both"> </div>
+<img align="center" max-width="40%" max-height="40%" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWl3ejhodWM5dW45aXk0cG84NXllYjdyMm8zdW4wYWdrczJieWFxNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif">
 
 <h3 align="left">I'm a Systems Engineering student at UTN FRRe. I'm enthusiastic about technology and web development, and I'm currently enhancing my skills in some programming languages and tools</h3>
 
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWl3ejhodWM5dW45aXk0cG84NXllYjdyMm8zdW4wYWdrczJieWFxNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif">
 
 ###
 
